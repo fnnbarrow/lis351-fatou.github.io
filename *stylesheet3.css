@@ -1,0 +1,21 @@
+*{
+	font-family: arial, courier, consolas;
+	color: black ;
+	text-align: left;
+	
+	
+}
+
+nav {
+
+	font-size: 35px;
+	text-align: center;
+
+}
+
+body {
+
+	padding: 30px;
+	margin: 40px;
+
+}

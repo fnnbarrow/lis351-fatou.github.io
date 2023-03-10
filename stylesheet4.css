@@ -1,0 +1,54 @@
+
+*{
+	font-family: arial, courier, consolas;
+	color: black ;
+	text-align: left;
+	
+}
+
+
+nav {
+
+	font-size: 35px;
+	text-align: center;
+}
+
+h1 {
+  padding: 30px;
+  text-align: center;
+  background: darkgray;
+
+}
+	body {
+		margin: 0;
+	}
+
+	.container {
+		width: 1200px;
+		display: inline-flex;
+		align-items: right;
+	}
+
+	.container img {
+		width: 700px;
+		margin-right: 20px;
+	}
+
+
+
+
+.column.side {
+  width: 25%;
+}
+
+.row {
+  display: table;
+  clear: both;
+
+}
+
+.footer {
+  padding: 30px;
+  background: darkgray;
+  margin-top: 30px;
+}
